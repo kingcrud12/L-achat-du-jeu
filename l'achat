@@ -1,0 +1,21 @@
+#récoleter la valeur d'un porte-monnaie
+#créer un produit qui aura pour valeur 50
+#Afficher la nouvelle valeur après l'achat
+
+walett= int(input("Entrez la valeur du porte-feuille;"))
+print("vous avez actuellement", walett, "euros")
+
+Jeu= 50
+print("Ce produit coûte", Jeu, "euros")
+
+Achat= walett-Jeu
+
+If Achat> 50:
+   print("produit acheté")
+   print("Il vous reste", Achat, "euros")
+
+elif 50> walett>= 20
+   print("vous ne pouvez pas acheter ce jeu mais vous avez suffisamment d'argent pour acheter un autre jeu"
+
+else:
+  print("Vous ne pouvez pas acheter ce produit")

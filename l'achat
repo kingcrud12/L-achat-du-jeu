@@ -15,7 +15,7 @@ If Achat> 50:
    print("Il vous reste", Achat, "euros")
 
 elif 50> walett>= 20
-   print("vous ne pouvez pas acheter ce jeu mais vous avez suffisamment d'argent pour acheter un autre jeu"
+   print("vous ne pouvez pas acheter ce jeu mais vous avez suffisamment d'argent pour acheter un autre jeu")
 
 else:
   print("Vous ne pouvez pas acheter ce produit")
